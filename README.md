@@ -44,5 +44,3 @@ Welcome to my GitHub profile! I'm Ahmad Taj, a Computer Science student at the U
 - 📧 Email: ahmadtaj@umich.edu
 
 ---
-
-💖 _Thank you for visiting my profile! Feel free to reach out for collaborations, opportunities, or just to chat about tech!_
