@@ -1,7 +1,6 @@
-# Hey, I'm Ahmad Taj 👋
+# Hey, I'm Ahmad
 
-I love **software development**, **game design**, and solving complex problems.  
-
+I love software development, game design, and C++!
 ---
 
 ## 🛠️ Languages & Technologies
