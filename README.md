@@ -1,6 +1,6 @@
 # Hey, I'm Ahmad
 
-I love software development, game design, and C++!
+I love software development, game design, and C++.
 ---
 
 ## 🛠️ Languages & Technologies
