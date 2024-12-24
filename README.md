@@ -1,6 +1,6 @@
 # Hey, I'm Ahmad Taj 👋
 
-I love **Modern C++**, solving complex problems, and developing impactful projects.  
+I love **software development**, **game design**, and solving complex problems.  
 
 ---
 
