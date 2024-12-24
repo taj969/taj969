@@ -19,13 +19,3 @@ I love software development, game design, and C++.
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ahmadtaj@umich.edu)
 
 ---
-
-## 📊 Statistics
-
-### 🏆 GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=taj969&show_icons=true&theme=radical)
-
-### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taj969&layout=compact&theme=radical)
-
----
