@@ -38,38 +38,6 @@ Welcome to my GitHub profile! I'm Ahmad Taj, a Computer Science student at the U
 
 ---
 
-## 📊 GitHub Stats
-![Ahmad Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=taj969&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taj969&layout=compact&theme=radical)
-
----
-
-## 🧑‍💻 Experience
-### **Software Engineering Intern** | United Automotive Technologies  
-*May 2024 - Present | Dearborn, MI*  
-- Developed software to streamline manufacturing workflows, reducing inefficiencies by 20%.
-- Optimized a dynamic company website, enhancing responsiveness and reducing page load times by 30%.
-- Collaborated across development lifecycle stages, including requirements gathering, testing, and deployment.
-
----
-
-## 🚀 Projects
-### **3D Maze Navigation** | *C++*
-- Implemented BFS and DFS algorithms for optimal pathfinding in a 3D maze.
-- Designed robust input parsing and error-handling mechanisms for seamless performance.
-
-### **Algorithmic Stock Trading Simulation** | *C++*
-- Built a simulation system using priority queues and optimized matching algorithms to boost trading efficiency.
-
-### **Efficient Banking System Simulation** | *Python*
-- Developed scalable data structures, enabling secure handling of up to 1 million transactions with minimal latency.
-
-### **Roblox Horror Obby Game** | *Lua*
-- Designed and launched a horror-themed obstacle course, generating $10,000+ revenue through in-game purchases.
-
----
-
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](https://linkedin.com/in/ahmadtaj/)
 - 🐙 [GitHub](https://github.com/taj969)
