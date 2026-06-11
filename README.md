@@ -13,7 +13,6 @@
 
 ## 👨‍💻 About Me
 I’m a Computer Science graduate from the University of Michigan focused on building reliable full-stack applications, APIs, and backend systems.  
-I enjoy solving practical problems through clean, efficient code and continuously improving as a developer.
 
 ---
 
