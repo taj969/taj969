@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=Building+clean+and+reliable+software;Full-Stack+Developer;Backend+Engineer;Always+learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=Software+Engineer;Frontend+Developer;Backend+Engineer" />
 </p>
 
 ---
