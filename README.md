@@ -6,8 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Engineer;API+Builder;LeetCode+Grinder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=500&lines=Building+clean+and+reliable+software;Full-Stack+Developer;Backend+Engineer;Always+learning" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+I’m a Computer Science graduate from the University of Michigan focused on building reliable full-stack applications, APIs, and backend systems.  
+I enjoy solving practical problems through clean, efficient code and continuously improving as a developer.
 
 ---
 
@@ -29,23 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
@@ -55,10 +44,4 @@
   <a href="mailto:ahmadbasheertaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
 </p>
